@@ -1,0 +1,77 @@
+{
+    "guildID": {
+        "guildName": "Guild Test Beta",
+        "userID001": {
+            "userTag": "User Zero Zero One",
+            "userXP": 12345,
+            "userLevel": 3
+        },
+        "userID002": {
+            "userTag": "User Zero Zero Two",
+            "userXP": 54321,
+            "userLevel": 8
+        }
+    },
+    "509034175140200489": {
+        "guildName": "Hack-o'-Fraggers",
+        "memberCount": 76,
+        "182749079024041985": {
+            "userTag": "ÆI#9916",
+            "userXP": 116,
+            "userLevel": 0
+        }
+    },
+    "707501654756425728": {
+        "guildName": "Eris HQ │ Autobot",
+        "memberCount": 3,
+        "696175356109127692": {
+            "userTag": "Lux#0446",
+            "userXP": 370,
+            "userLevel": 0
+        }
+    },
+    "804218352260218920": {
+        "guildName": "Kude HQ │ +AnimeSoul",
+        "memberCount": 50,
+        "382693997568851989": {
+            "userTag": "Kudeee#0001",
+            "userXP": 2516,
+            "userLevel": 2
+        },
+        "696175356109127692": {
+            "userTag": "Lux#0446",
+            "userXP": 718,
+            "userLevel": 0
+        },
+        "620860530243928065": {
+            "userTag": "Toshiro#7797",
+            "userXP": 1083,
+            "userLevel": 1
+        },
+        "542611841713569803": {
+            "userTag": "den1477#0269",
+            "userXP": 5696,
+            "userLevel": 5
+        },
+        "204818818814443520": {
+            "userTag": "Beta#5284",
+            "userXP": 1446,
+            "userLevel": 1
+        },
+        "403455479193272322": {
+            "userTag": "Hoàng Nguyễn#0397",
+            "userXP": 255,
+            "userLevel": 0
+        },
+        "611000321396703232": {
+            "userTag": "T.Dương#1611",
+            "userXP": 473,
+            "userLevel": 0
+        },
+        "454885891828219904": {
+            "userTag": "thebudupu#4848",
+            "userXP": 4081,
+            "userLevel": 4
+        }
+    }
+}
